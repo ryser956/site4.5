@@ -1,0 +1,57 @@
+body{
+    background-image: url("img7.png");
+    background-repeat: repeat-y;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+
+
+
+div{
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgba(255,255,255,0.5);
+    padding: 10px;
+}
+img{
+    width: 400px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+h1{
+    text-align: center;
+}
+
+
+
+
+#t1{
+float: left;
+}
+#t2{
+    float: right;
+}
+#t3{
+    float: left;
+}
+#t4{
+    float: right;
+}
+#t5{
+    float: left;
+}
+#t0{
+    padding: 0px;
+}
+.to{
+    width: 100px;
+
+}
+#t6{
+    padding: 0px;
+    margin-top: 50px;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+
+}
